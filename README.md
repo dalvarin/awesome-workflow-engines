@@ -2,6 +2,11 @@
 
 A curated list of awesome open source workflow engines
 
+## Added by dalvarin
+
+* [Temporal](https://temporal.io/)
+* [Mulesoft](https://www.mulesoft.com/)
+* [Kestra](https://kestra.io/)
 
 ## Full fledged product
 
