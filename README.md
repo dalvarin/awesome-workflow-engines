@@ -5,6 +5,7 @@ A curated list of awesome open source workflow engines
 ## Added by dalvarin
 
 * [Mulesoft](https://www.mulesoft.com/)
+* [Cossplane](https://www.crossplane.io/)
 
 ## Full fledged product
 
